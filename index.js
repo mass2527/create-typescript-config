@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// https://docs.npmjs.com/cli/v10/configuring-npm/package-json#bin
 
 import * as p from "@clack/prompts";
 import { writeFileSync } from "fs";
