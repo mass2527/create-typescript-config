@@ -1,6 +1,6 @@
 {
   "name": "create-typescript-config",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Effortlessly create custom TypeScript tsconfig.json file",
   "type": "module",
   "scripts": {
