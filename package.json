@@ -2,13 +2,12 @@
   "name": "create-typescript-config",
   "version": "0.0.7",
   "description": "Effortlessly create custom TypeScript tsconfig.json file",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "build": "tsup src/index.ts --format esm"
   },
   "bin": {
-    "create-typescript-config": "./index.js"
+    "create-typescript-config": "dist/index.js"
   },
   "keywords": [
     "typescript",
