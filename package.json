@@ -13,7 +13,16 @@
     "typescript",
     "tsconfig"
   ],
-  "author": "",
+  "author": {
+    "name": "Dongho Kim",
+    "email": "dongre2527@gmail.com",
+    "url": "https://www.philly.im"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mass2527/create-typescript-config"
+  },
+  "homepage": "https://github.com/mass2527/create-typescript-config#readme",
   "license": "MIT",
   "dependencies": {
     "@clack/prompts": "^0.7.0"
